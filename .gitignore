@@ -1,0 +1,4 @@
+node-auth-api.code-workspace
+node_modules
+dist
+.env

@@ -1,0 +1,21 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-eslint-rules",
+        "tslint-microsoft-contrib",
+        "tslint-consistent-codestyle",
+        "tslint-config-prettier"
+    ],
+    "jsRules": {},
+    "rules": {
+        "indent": [
+            true,
+            "spaces"
+        ],
+        "trailing-comma": [
+            false
+        ]
+    },
+    "rulesDirectory": []
+}
