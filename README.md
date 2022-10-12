@@ -11,6 +11,8 @@ or
   npm install
 ``` 
 
+- Copy .env.example to .env and configure at will
+
 - Run!
 
 ```sh
